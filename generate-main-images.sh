@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir images/European_inland_waterways_-_2012
+mkdir -p images/European_inland_waterways_-_2012
 convert -verbose data/European_inland_waterways_-_2012.pdf -resize   256 images/European_inland_waterways_-_2012/0.png
 convert -verbose data/European_inland_waterways_-_2012.pdf -resize   512 images/European_inland_waterways_-_2012/1.png
 convert -verbose data/European_inland_waterways_-_2012.pdf -resize  1024 images/European_inland_waterways_-_2012/2.png
