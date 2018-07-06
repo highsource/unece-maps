@@ -20,6 +20,7 @@ sudo apt-get install git
 
 ```
 git clone https://github.com/highsource/unece-maps.git
+cd unece-maps
 ```
 
 # Generating the tiles

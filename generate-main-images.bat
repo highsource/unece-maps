@@ -7,4 +7,4 @@ md images\European_inland_waterways_-_2012
 %IMAGEMAGICK_PATH%\convert -verbose -density 148.9243005254935 data\European_inland_waterways_-_2012.pdf images\European_inland_waterways_-_2012\4.png
 %IMAGEMAGICK_PATH%\convert -verbose -density 297.8486010509871 data\European_inland_waterways_-_2012.pdf images\European_inland_waterways_-_2012\5.png
 %IMAGEMAGICK_PATH%\convert -verbose -density 595.6972021019742 data\European_inland_waterways_-_2012.pdf images\European_inland_waterways_-_2012\6.png
-%IMAGEMAGICK_PATH%\convert -verbose -density 1191.394404203948 data\European_inland_waterways_-_2012.pdf images\European_inland_waterways_-_2012\7.png
+rem %IMAGEMAGICK_PATH%\convert -verbose -density 1191.394404203948 data\European_inland_waterways_-_2012.pdf images\European_inland_waterways_-_2012\7.png
