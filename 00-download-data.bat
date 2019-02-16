@@ -1,2 +1,2 @@
 if not exist data md data
-wget -q https://www.unece.org/fileadmin/DAM/trans/main/sc3/European_inland_waterways_-_2012.pdf -O data/European_inland_waterways_-_2012.pdf
+wget -q http://www.unece.org/fileadmin/DAM/trans/main/sc3/AGN_map_2018.pdf -O data/AGN_map_2018.pdf
